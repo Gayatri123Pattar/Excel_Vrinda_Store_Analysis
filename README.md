@@ -15,6 +15,9 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 * Which Channel is contributing maximum to the sales?
 * Highest selling category?
 
+# DASHBOARD :
+
+
 # INSIGHTS :
 
 * Women customers are more likely to buy products compared to men (~65%).
